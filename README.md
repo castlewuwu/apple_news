@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-03-26](./2026-03-26.md) - Swift Student Challenge即将公布、AirPods Max 2预购、AAPL财报前瞻
 - [2026-03-25](./2026-03-25.md) - Apple商务平台、WWDC 2026、AirPods Max 2、50周年庆祝
 
 ---
