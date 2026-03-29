@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-03-29](./2026-03-29.md) - iOS 26.4发布、AirPods Max 2热销、iPhone阵容更新
 - [2026-03-28](./2026-03-28.md) - 3月发布9款新品、供应链本地化、AAPL股价分析、Tim Cook辟谣退休
 - [2026-03-27](./2026-03-27.md) - Swift Student Challenge获奖、AirPods Max 2发售
 - [2026-03-26](./2026-03-26.md) - Swift Student Challenge即将公布、AirPods Max 2预购、AAPL财报前瞻
