@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-05](./2026-04-05.md) - 四款新品等待Siri、iOS 27全新Siri详解、iPhone 18 Pro革新、iPhone Fold
 - [2026-04-04](./2026-04-04.md) - 苹果50周年纪念、2026新品路线图、iPhone 17发售、iPad Air M4
 - [2026-04-03](./2026-04-03.md) - Q2 2026财报预告、AI战略转向、LGTM研究、iOS 26.4新功能
 - [2026-04-02](./2026-04-02.md) - Apple Fitness负责人退休、Amazon洽购Globalstar、Apple Sports支持世界杯
