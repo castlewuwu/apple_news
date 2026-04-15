@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-15](./2026-04-15.md) - iPhone Fold生产延迟、iPhone 18 Pro革新、AAPL多空观点、Tim Cook辟谣退休、苹果牵手Google Gemini
 - [2026-04-14](./2026-04-14.md) - 4月新品动态、M5 Mac更新预期、iPhone 18 Pro路线图、iOS 26.5测试版、Mac Pro停产
 - [2026-04-13](./2026-04-13.md) - iPhone Fold试产推进、iPhone 18 Pro机模曝光、折叠屏市场预测、AAPL散户新宠、库克继任者讨论
 - [2026-04-12](./2026-04-12.md) - iPhone Fold试产顺利、iPhone 18 Pro泄露、供应链本地化加速、机构增持AAPL
