@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-19](./2026-04-19.md) - 古尔曼2026路线图、25款新品清单、屏下Face ID iPhone 18 Pro、iPhone Fold折叠机、高调安全更新、市值逼近4万亿美元
 - [2026-04-18](./2026-04-18.md) - iPhone 18系列超旗舰定位、首款折叠iPhone、M5桌面Mac更新、AirPods Max 2发售、15+新品路线图、Apple TV+新剧、BNP Paribas升级AAPL
 - [2026-04-17](./2026-04-17.md) - 2026春季新品8款发布、智能眼镜备战Meta、Mac Pro停产、三星涨价成本压力、Siri团队200人AI训练营、Giannandrea离职
 - [2026-04-16](./2026-04-16.md) - Apple AI智能眼镜进展、MacBook Neo史上最便宜、iPhone Fold设计泄露、Giannandrea离职、紧急安全提醒
