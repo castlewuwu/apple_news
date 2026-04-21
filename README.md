@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-21](./2026-04-21.md) - 🔥重大新闻：Tim Cook辞任CEO、John Ternus接任、高管变动详情、Cook时代回顾、Ternus背景介绍
 - [2026-04-20](./2026-04-20.md) - iPad Air M4发布、2026新品路线图、自助维修计划更新、MacBook Neo易维修设计、AI国行版计划、智能眼镜进展
 - [2026-04-19](./2026-04-19.md) - 古尔曼2026路线图、25款新品清单、屏下Face ID iPhone 18 Pro、iPhone Fold折叠机、高调安全更新、市值逼近4万亿美元
 - [2026-04-18](./2026-04-18.md) - iPhone 18系列超旗舰定位、首款折叠iPhone、M5桌面Mac更新、AirPods Max 2发售、15+新品路线图、Apple TV+新剧、BNP Paribas升级AAPL
