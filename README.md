@@ -4,6 +4,7 @@
 
 ## 目录
 
+- [2026-04-28](./2026-04-28.md) - 🔥热点聚焦：2026春季发布会全回顾、iPhone 17e深度分析、MacBook Neo史上最便宜、Studio Display 2高刷时代、HomePod/AppleTV更新
 - [2026-04-27](./2026-04-27.md) - 🔥热点聚焦：John Ternus接任CEO倒计时、25款史上最大规模新品路线图、App Store中国佣金降至25%、iPhone Fold折叠机进展、市值逼近4万亿
 - [2026-04-26](./2026-04-26.md) - 🔥热点聚焦：iPhone 18内存升级12GB为AI铺路、iOS 27 WWDC预告、立讯精密转型摆脱果链依赖、iPhone Air史上最薄、苹果50周年
 - [2026-04-25](./2026-04-25.md) - 🔥热点聚焦：John Ternus正式接任CEO、Cook转任董事长、M5 Mac Studio即将发布、Apple TV 4K更新、macOS安全更新、AI追赶困境
