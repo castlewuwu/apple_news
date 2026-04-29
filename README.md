@@ -4,6 +4,12 @@
 
 ## 目录
 
+### 周报汇总
+
+- [周报 2026-04-29](./weekly/2026-04-29.md) - 📊本周重点：Tim Cook时代落幕详解、4万亿市值里程碑、MacBook Neo热销告急、iPhone Fold量产推迟、John Ternus接任CEO、供应链关税应对策略
+
+### 日报汇总
+
 - [2026-04-28](./2026-04-28.md) - 🔥热点聚焦：2026春季发布会全回顾、iPhone 17e深度分析、MacBook Neo史上最便宜、Studio Display 2高刷时代、HomePod/AppleTV更新
 - [2026-04-27](./2026-04-27.md) - 🔥热点聚焦：John Ternus接任CEO倒计时、25款史上最大规模新品路线图、App Store中国佣金降至25%、iPhone Fold折叠机进展、市值逼近4万亿
 - [2026-04-26](./2026-04-26.md) - 🔥热点聚焦：iPhone 18内存升级12GB为AI铺路、iOS 27 WWDC预告、立讯精密转型摆脱果链依赖、iPhone Air史上最薄、苹果50周年
