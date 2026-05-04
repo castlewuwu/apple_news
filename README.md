@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-05-04](./weekly/2026-05-04.md) - 📊本周重点：Q2财报$111.2B营收创纪录、iPhone 17史上最受欢迎、$100B回购计划、Cook最后财报会议、Ternus接班宣言、Mac供应紧张持续、Services首次突破$30B
 - [周报 2026-04-29](./weekly/2026-04-29.md) - 📊本周重点：Tim Cook时代落幕详解、4万亿市值里程碑、MacBook Neo热销告急、iPhone Fold量产推迟、John Ternus接任CEO、供应链关税应对策略
 
 ### 日报汇总
