@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-06-08](./weekly/2026-06-08.md) - 📊本周重点：WWDC 2026今日开幕、iOS 27与全新Siri即将发布、iPhone 18 Pro完整规格曝光、iPhone Fold量产计划确认、MacBook OLED触摸屏Q4发布、Jony Ive设计Ferrari Luce EV内饰
 - [周报 2026-06-01](./weekly/2026-06-01.md) - 📊本周重点：WWDC 2026倒计时、iPhone Fold量产确认、15+新产品路线图、全新Siri基于LLM重构、Jony Ive设计Ferrari EV
 - [周报 2026-05-25](./weekly/2026-05-25.md) - 📊本周重点：印度iPhone组装28%、Apple制造学院AI推进、20+新品前瞻、库克内部讲话、苹果50周年BBC回顾
 - [周报 2026-05-18](./weekly/2026-05-18.md) - 📊本周重点：iOS 26.5正式发布、全新Siri独立应用即将推出、iPhone 18 Pro自研调制解调器传闻、研发支出30年首次突破10%、Steve Jobs纪念硬币售罄
