@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-07-06](./weekly/2026-07-06.md) - 📊本周重点：iPhone Ultra供应紧张可能延迟发售（价格$2299-$2499）、生产目标上调至1000万台、M6 MacBook Pro年底发布、M7 MacBook Pro 2027年初新设计、供应商Tata数据泄露iPhone 18 Pro信息、iOS 26.5.2修复25+漏洞、AirPods带摄像头代码暗示、涨价后MacBook Pro折扣延续
 - [周报 2026-06-29](./weekly/2026-06-29.md) - 📊本周重点：Apple全线产品大幅涨价（最高50%）、M6 2nm芯片今年发布、iPhone 18配备9GB RAM+A20芯片、OpenAI招募Vision Pro高管、iPad mini OLED量产启动、申请采购中国内存芯片应对短缺、Prime Day折扣延续
 - [周报 2026-06-22](./weekly/2026-06-22.md) - 📊本周重点：Tim Cook确认价格上涨不可避免、M6芯片秋季发布、20周年iPhone路线图曝光、Apple永久关闭三家门店（含首家工会化门店）、John Ternus将重振设计团队影响力、2028 iPhone采用1.4nm A22 Pro芯片、AirPods Pro 3创历史最低价$169
 - [周报 2026-06-15](./weekly/2026-06-15.md) - 📊本周重点：WWDC 2026圆满落幕、Siri AI基于Google Gemini模型重构、Tim Cook最后一次主题演讲告别、macOS Golden Gate告别Intel Mac时代、iOS 27代码确认iPhone Fold即将到来、AAPL股价盘中创新高后回落、Apple Intelligence全面升级
