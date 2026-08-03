@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-08-03](./weekly/2026-08-03.md) - 📊本周重点：市值突破5万亿美元里程碑（史上第二家）、Apple Upgrade租赁计划美国上线、Q3财报营收$109.42B创新高、内存短缺致股价大跌近10%、承诺美国制造投资$300亿、Siri AI智能家居大计曝光
 - [周报 2026-07-27](./weekly/2026-07-27.md) - 📊本周重点：Mac产品线大更新（11款新机型）、首款防水iPad mini即将发布、Apple Upgrade租赁计划7月28日启动、iOS 27第二个公开测试版发布、Apple Watch Series 12开发中、AI智能眼镜将于WWDC 2027揭晓
 - [周报 2026-07-20](./weekly/2026-07-20.md) - 📊本周重点：iOS 27/macOS Golden Gate公开测试版发布、Apple Music全面涨价（$10.99→$11.99）、智能家居产品线爆料（Home Hub/Apple TV 4K/HomePod更新）、Genius Bar AI Live Notes功能测试、新iPad mini OLED 10月发布传闻
 - [周报 2026-07-06](./weekly/2026-07-06.md) - 📊本周重点：iPhone Ultra供应紧张可能延迟发售（价格$2299-$2499）、生产目标上调至1000万台、M6 MacBook Pro年底发布、M7 MacBook Pro 2027年初新设计、供应商Tata数据泄露iPhone 18 Pro信息、iOS 26.5.2修复25+漏洞、AirPods带摄像头代码暗示、涨价后MacBook Pro折扣延续
