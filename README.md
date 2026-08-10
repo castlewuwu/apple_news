@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-08-10](./weekly/2026-08-10.md) - 📊本周重点：M7芯片加速开发跳过M6 Pro/Max、MacBook Pro双型号升级选项、iPhone 17或涨价、折叠iPhone Ultra颜色曝光（银色/深蓝）、Apple Watch陶瓷版回归、内存短缺威胁iPhone 18 Pro供应、Apple Watch探索重大重新设计
 - [周报 2026-08-03](./weekly/2026-08-03.md) - 📊本周重点：市值突破5万亿美元里程碑（史上第二家）、Apple Upgrade租赁计划美国上线、Q3财报营收$109.42B创新高、内存短缺致股价大跌近10%、承诺美国制造投资$300亿、Siri AI智能家居大计曝光
 - [周报 2026-07-27](./weekly/2026-07-27.md) - 📊本周重点：Mac产品线大更新（11款新机型）、首款防水iPad mini即将发布、Apple Upgrade租赁计划7月28日启动、iOS 27第二个公开测试版发布、Apple Watch Series 12开发中、AI智能眼镜将于WWDC 2027揭晓
 - [周报 2026-07-20](./weekly/2026-07-20.md) - 📊本周重点：iOS 27/macOS Golden Gate公开测试版发布、Apple Music全面涨价（$10.99→$11.99）、智能家居产品线爆料（Home Hub/Apple TV 4K/HomePod更新）、Genius Bar AI Live Notes功能测试、新iPad mini OLED 10月发布传闻
