@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-08-24](./weekly/2026-08-24.md) - 📊本周重点：苹果裁员200+人（Vision Pro/Siri团队）、Walmart接受Apple Pay结束12年抗争、触屏MacBook即将发布、iPhone Ultra内部反馈积极、M6 iMac今年推出新配色、带摄像头AirPods细节泄露
 - [周报 2026-08-17](./weekly/2026-08-17.md) - 📊本周重点：Tim Cook转任执行主席、John Ternus接任CEO、休斯顿先进制造中心开放、AI内存短缺冲击供应链
 - [周报 2026-08-10](./weekly/2026-08-10.md) - 📊本周重点：M7芯片加速开发跳过M6 Pro/Max、MacBook Pro双型号升级选项、iPhone 17或涨价、折叠iPhone Ultra颜色曝光（银色/深蓝）、Apple Watch陶瓷版回归、内存短缺威胁iPhone 18 Pro供应、Apple Watch探索重大重新设计
 - [周报 2026-08-03](./weekly/2026-08-03.md) - 📊本周重点：市值突破5万亿美元里程碑（史上第二家）、Apple Upgrade租赁计划美国上线、Q3财报营收$109.42B创新高、内存短缺致股价大跌近10%、承诺美国制造投资$300亿、Siri AI智能家居大计曝光
