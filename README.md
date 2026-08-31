@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-08-31](./weekly/2026-08-31.md) - 📊本周重点：Tim Cook正式卸任CEO、John Ternus接任、600亿美元德州供应链投资、2025财年营收4162亿美元、Mac mini和Mac Studio新品发布
 - [周报 2026-08-24](./weekly/2026-08-24.md) - 📊本周重点：苹果裁员200+人（Vision Pro/Siri团队）、Walmart接受Apple Pay结束12年抗争、触屏MacBook即将发布、iPhone Ultra内部反馈积极、M6 iMac今年推出新配色、带摄像头AirPods细节泄露
 - [周报 2026-08-17](./weekly/2026-08-17.md) - 📊本周重点：Tim Cook转任执行主席、John Ternus接任CEO、休斯顿先进制造中心开放、AI内存短缺冲击供应链
 - [周报 2026-08-10](./weekly/2026-08-10.md) - 📊本周重点：M7芯片加速开发跳过M6 Pro/Max、MacBook Pro双型号升级选项、iPhone 17或涨价、折叠iPhone Ultra颜色曝光（银色/深蓝）、Apple Watch陶瓷版回归、内存短缺威胁iPhone 18 Pro供应、Apple Watch探索重大重新设计
