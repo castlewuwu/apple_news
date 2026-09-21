@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-09-21](./weekly/2026-09-21.md) - 🚀本周重点：iPhone 18 Pro系列正式发售、iFixit拆解揭示可变光圈机制、Apple Watch Series 12/Ultra 4发售（随机重启问题）、iOS 27正式发布性能提升30%、M6 Mac mini发布、iPhone Duo开发者准备、Siri AI等待列表开放
 - [周报 2026-09-14](./weekly/2026-09-14.md) - 🎉本周重点：9月9日特别活动成功举办、iPhone Duo首款折叠屏发布、iPhone 18 Pro搭载全球首款2nm芯片A20 Pro、iOS 27正式发布、Siri AI登场、Apple Watch Series 12与Ultra 4发布、AirPods 5发布
 - [周报 2026-09-07](./weekly/2026-09-07.md) - 📊本周重点：9月9日特别活动预告（iPhone Ultra、iPhone 18 Pro等6款新品）、John Ternus正式接任CEO、Phil Schiller离职、App Store改革计划、M6与A20芯片技术突破
 - [周报 2026-08-31](./weekly/2026-08-31.md) - 📊本周重点：Tim Cook正式卸任CEO、John Ternus接任、600亿美元德州供应链投资、2025财年营收4162亿美元、Mac mini和Mac Studio新品发布
