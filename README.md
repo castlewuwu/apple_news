@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-10-05](./weekly/2026-10-05.md) - 🍎本周重点：新CEO特努斯时代首秀、折叠屏iPhone Duo发布、10月新品前瞻、A20 Pro 2nm芯片突破、智能家居控制中枢即将发布
 - [周报 2026-09-28](./weekly/2026-09-28.md) - 📱本周重点：iPhone 18 Pro首周销售表现、Apple Watch问题修复（watchOS 27.1 Beta）、iPhone Duo临近发售倒计时、M6 Mac mini市场反馈、iOS 27.1 Beta 2发布、M7芯片路线图更新
 - [周报 2026-09-21](./weekly/2026-09-21.md) - 🚀本周重点：iPhone 18 Pro系列正式发售、iFixit拆解揭示可变光圈机制、Apple Watch Series 12/Ultra 4发售（随机重启问题）、iOS 27正式发布性能提升30%、M6 Mac mini发布、iPhone Duo开发者准备、Siri AI等待列表开放
 - [周报 2026-09-14](./weekly/2026-09-14.md) - 🎉本周重点：9月9日特别活动成功举办、iPhone Duo首款折叠屏发布、iPhone 18 Pro搭载全球首款2nm芯片A20 Pro、iOS 27正式发布、Siri AI登场、Apple Watch Series 12与Ultra 4发布、AirPods 5发布
