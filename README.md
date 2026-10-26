@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-10-26](./weekly/2026-10-26.md) - 📱本周重点：iPhone Duo正式发售、屏幕开裂风波、触屏MacBook Pro即将发布、网络安全威胁应对
 - [周报 2026-10-19](./weekly/2026-10-19.md) - 📱本周重点：iPhone Duo正式开放预购($1999起)、电池容量4883mAh曝光、连续四周新品发布计划、触屏MacBook Pro 11月6日上市、John Ternus TIME专访、iPad mini配件泄露
 - [周报 2026-10-12](./weekly/2026-10-12.md) - 📱本周重点：iPhone Duo折叠屏即将发售、智能家居战略大举进军、HomeView控制中枢即将发布、iPad mini OLED涨价预期、M7 MacBook Pro设计革新
 - [周报 2026-10-05](./weekly/2026-10-05.md) - 🍎本周重点：新CEO特努斯时代首秀、折叠屏iPhone Duo发布、10月新品前瞻、A20 Pro 2nm芯片突破、智能家居控制中枢即将发布
