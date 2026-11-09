@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-11-09](./weekly/2026-11-09.md) - 📱本周重点：MacBook Pro with PROLED正式到货(首款触屏Mac)、iOS 27.3测试版(Apple Music Selfie Sing)、Siri AI代理化计划、iPhone Duo 100K+应用优化、MacBook Neo 2预期销量翻倍
 - [周报 2026-11-02](./weekly/2026-11-02.md) - 📱本周重点：OLED MacBook Pro发布(首款触屏Mac)、OLED iPad mini(首款防水iPad)、M6 MacBook Pro/iMac更新、iPhone Duo内屏开裂问题
 - [周报 2026-10-26](./weekly/2026-10-26.md) - 📱本周重点：iPhone Duo正式发售、屏幕开裂风波、触屏MacBook Pro即将发布、网络安全威胁应对
 - [周报 2026-10-19](./weekly/2026-10-19.md) - 📱本周重点：iPhone Duo正式开放预购($1999起)、电池容量4883mAh曝光、连续四周新品发布计划、触屏MacBook Pro 11月6日上市、John Ternus TIME专访、iPad mini配件泄露
