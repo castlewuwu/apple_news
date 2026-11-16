@@ -6,6 +6,7 @@
 
 ### 周报汇总
 
+- [周报 2026-11-16](./weekly/2026-11-16.md) - 📱本周重点：Apple TV 4K第四代发布($299,A19芯片,Siri AI)、HomeView智能显示器发售($299)、tvOS 27.2.1旧款Apple TV获Siri AI、智能眼镜战略依赖Siri AI、AirPods Pro 3折扣$70
 - [周报 2026-11-09](./weekly/2026-11-09.md) - 📱本周重点：MacBook Pro with PROLED正式到货(首款触屏Mac)、iOS 27.3测试版(Apple Music Selfie Sing)、Siri AI代理化计划、iPhone Duo 100K+应用优化、MacBook Neo 2预期销量翻倍
 - [周报 2026-11-02](./weekly/2026-11-02.md) - 📱本周重点：OLED MacBook Pro发布(首款触屏Mac)、OLED iPad mini(首款防水iPad)、M6 MacBook Pro/iMac更新、iPhone Duo内屏开裂问题
 - [周报 2026-10-26](./weekly/2026-10-26.md) - 📱本周重点：iPhone Duo正式发售、屏幕开裂风波、触屏MacBook Pro即将发布、网络安全威胁应对
